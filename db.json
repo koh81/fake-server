@@ -2,18 +2,44 @@
   "task": [
     {
       "name": "Products",
-      "dueDate": "2024-09-30",
+      "dueDate": "2024-09-28",
       "persons": [
         {
           "fullName": "Carlos Orozco",
-          "age": 31,
+          "age": 18,
           "skills": [
-            "DEV"
+            "DEV",
+            "Angular"
           ]
         }
       ],
       "completed": false,
       "id": 1
+    },
+    {
+      "name": "Imogene Windler",
+      "dueDate": "2024-10-12",
+      "persons": [
+        {
+          "fullName": "Andres",
+          "age": 32,
+          "skills": [
+            "Backend",
+            "NodeJS",
+            "Agile"
+          ]
+        },
+        {
+          "fullName": "Albert",
+          "age": 38,
+          "skills": [
+            "LEad",
+            "FullsStack"
+          ]
+        }
+      ],
+      "completed": false,
+      "id": 2
     }
   ]
 }
