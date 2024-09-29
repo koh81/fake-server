@@ -1,17 +1,19 @@
-[
-  {
-    "name": "Products",
-    "dueDate": "2024-09-30",
-    "persons": [
-      {
-        "fullName": "Carlos Orozco",
-        "age": 31,
-        "skills": [
-          "ddde"
-        ]
-      }
-    ],
-    "completed": false,
-    "id": 1
-  }
-]
+{
+  "task": [
+    {
+      "name": "Products",
+      "dueDate": "2024-09-30",
+      "persons": [
+        {
+          "fullName": "Carlos Orozco",
+          "age": 31,
+          "skills": [
+            "DEV"
+          ]
+        }
+      ],
+      "completed": false,
+      "id": 1
+    }
+  ]
+}
